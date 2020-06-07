@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 06/05/20 22:36:25 by Eclipse SUMO od2trips Version 1.3.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/od2tripsConfiguration.xsd">
+
+    <input>
+        <taz-files value="taz_file.taz.xml"/>
+        <od-matrix-files value="OD_file.od"/>
+    </input>
+
+    <output>
+        <output-file value="od_file.odtrips.xml"/>
+    </output>
+
+    <time>
+        <end value="100"/>
+    </time>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="63" depart="0.79" from="-gneE0" to="-gneE1" fromTaz="1" toTaz="2" departLane="free" departSpeed="max"/>
+    <trip id="283" depart="2.83" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="519" depart="4.77" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="245" depart="11.12" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="88" depart="16.72" from="-gneE0" to="-gneE1" fromTaz="1" toTaz="2" departLane="free" departSpeed="max"/>
+    <trip id="9" depart="18.39" from="-gneE0" to="-gneE1" fromTaz="1" toTaz="2" departLane="free" departSpeed="max"/>
+    <trip id="749" depart="18.97" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="412" depart="19.61" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="391" depart="23.05" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="198" depart="36.86" from="-gneE0" to="-gneE1" fromTaz="1" toTaz="2" departLane="free" departSpeed="max"/>
+    <trip id="526" depart="37.70" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="142" depart="39.03" from="-gneE0" to="-gneE1" fromTaz="1" toTaz="2" departLane="free" departSpeed="max"/>
+    <trip id="571" depart="46.90" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="772" depart="47.95" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="543" depart="54.47" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="5" depart="55.65" from="-gneE0" to="-gneE1" fromTaz="1" toTaz="2" departLane="free" departSpeed="max"/>
+    <trip id="597" depart="70.72" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="587" depart="73.98" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="711" depart="76.05" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="551" depart="76.76" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="418" depart="77.89" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+    <trip id="111" depart="81.63" from="-gneE0" to="-gneE1" fromTaz="1" toTaz="2" departLane="free" departSpeed="max"/>
+    <trip id="829" depart="88.88" from="gneE4" to="-gneE5" fromTaz="3" toTaz="4" departLane="free" departSpeed="max"/>
+</routes>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 06/05/20 22:38:26 by Eclipse SUMO duarouter Version 1.3.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="input_net.net.xml"/>
+        <route-files value="od_file.odtrips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="od_route_file.odtrips.rou.xml"/>
+        <alternatives-output value="od_route_file.odtrips.rou.alt.xml"/>
+    </output>
+
+    <report>
+        <xml-validation value="never"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="63" depart="0.79" departLane="free" departSpeed="max" fromTaz="1" toTaz="2">
+        <route edges="-gneE0 -gneE1"/>
+    </vehicle>
+    <vehicle id="283" depart="2.83" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="519" depart="4.77" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="245" depart="11.12" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="88" depart="16.72" departLane="free" departSpeed="max" fromTaz="1" toTaz="2">
+        <route edges="-gneE0 -gneE1"/>
+    </vehicle>
+    <vehicle id="9" depart="18.39" departLane="free" departSpeed="max" fromTaz="1" toTaz="2">
+        <route edges="-gneE0 -gneE1"/>
+    </vehicle>
+    <vehicle id="749" depart="18.97" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="412" depart="19.61" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="391" depart="23.05" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="198" depart="36.86" departLane="free" departSpeed="max" fromTaz="1" toTaz="2">
+        <route edges="-gneE0 -gneE1"/>
+    </vehicle>
+    <vehicle id="526" depart="37.70" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="142" depart="39.03" departLane="free" departSpeed="max" fromTaz="1" toTaz="2">
+        <route edges="-gneE0 -gneE1"/>
+    </vehicle>
+    <vehicle id="571" depart="46.90" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="772" depart="47.95" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="543" depart="54.47" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="5" depart="55.65" departLane="free" departSpeed="max" fromTaz="1" toTaz="2">
+        <route edges="-gneE0 -gneE1"/>
+    </vehicle>
+    <vehicle id="597" depart="70.72" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="587" depart="73.98" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="711" depart="76.05" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="551" depart="76.76" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="418" depart="77.89" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+    <vehicle id="111" depart="81.63" departLane="free" departSpeed="max" fromTaz="1" toTaz="2">
+        <route edges="-gneE0 -gneE1"/>
+    </vehicle>
+    <vehicle id="829" depart="88.88" departLane="free" departSpeed="max" fromTaz="3" toTaz="4">
+        <route edges="gneE4 -gneE5"/>
+    </vehicle>
+</routes>

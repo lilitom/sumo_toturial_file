@@ -1,0 +1,1 @@
+sumo -c exa.sumocfg --full-output all_full_output.xml

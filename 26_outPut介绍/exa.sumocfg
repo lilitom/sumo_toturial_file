@@ -1,0 +1,15 @@
+<configuration>
+<input>
+<net-file value="input_net.net.xml"/>
+<route-files value="od_route_file.odtrips.rou.xml"/>
+<additional-files value="e1.add.xml"/>
+<summary-output value="summary1.xml"/>
+</input>
+<time>
+<begin value="0"/>
+<end value="1234"/>
+</time>
+
+
+
+</configuration>

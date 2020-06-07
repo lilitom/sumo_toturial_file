@@ -1,0 +1,8 @@
+junction:gneJ0
+junction:gneJ1
+edge:gneE0
+junction:gneJ2
+edge:gneE1
+junction:gneJ3
+edge:gneE2
+junction:gneJ4
